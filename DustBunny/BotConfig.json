@@ -1,8 +1,8 @@
 ﻿{
   "Ids": {
-    "Bot": "679683523736502436",
-    "Owner": "93015586698727424",
-    "Server": "263688866978988032"
+    "Bot": "DISCORD_BOT_ID",
+    "Owner": "YOUR_DISCORD_ID",
+    "Server": "SERVER_ID_BOT_RESIDES_IN"
   },
   "Bots": [
     {
