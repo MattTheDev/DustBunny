@@ -1,9 +1,8 @@
-<p align="center">
-  <a href="https://discord.gg/4PpDrCX">
-    <img src="https://discordapp.com/api/guilds/767835739177091083/widget.png?style=shield" alt="Discord Server">
-  </a>
-  ![.NET Core](https://github.com/MattTheDev/DustBunny/workflows/.NET%20Core/badge.svg)
-</p>
+<a href="https://discord.gg/4PpDrCX">
+  <img src="https://discordapp.com/api/guilds/767835739177091083/widget.png?style=shield" alt="Discord Server">
+</a>
+
+![.NET Core](https://github.com/MattTheDev/DustBunny/workflows/.NET%20Core/badge.svg)
 
 # DustBunny
 Discord Bot / Process Manager
