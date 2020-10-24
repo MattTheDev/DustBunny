@@ -1,11 +1,16 @@
-![.NET Core](https://github.com/MattTheDev/DustBunny/workflows/.NET%20Core/badge.svg)
+<p align="center">
+  <a href="https://discord.gg/4PpDrCX">
+    <img src="https://discordapp.com/api/guilds/767835739177091083/widget.png?style=shield" alt="Discord Server">
+  </a>
+  ![.NET Core](https://github.com/MattTheDev/DustBunny/workflows/.NET%20Core/badge.svg)
+</p>
 
 # DustBunny
 Discord Bot / Process Manager
 
-## Configuration File Explanation
+### Configuration File Explanation
 
-### Ids
+#### Ids
 ```json
   "Ids": {
     "Bot": "DISCORD_BOT_ID",
