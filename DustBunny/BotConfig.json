@@ -1,0 +1,29 @@
+﻿{
+  "Ids": {
+    "Bot": "679683523736502436",
+    "Owner": "93015586698727424",
+    "Server": "263688866978988032"
+  },
+  "Bots": [
+    {
+      "Id": "DISCORD_BOT_ID",
+      "Name": "DISCORD_BOT_NAME",
+      "AnnounceChannel": "DISCORD_ANNOUNCE_CHANNEL",
+      "OfflineTime": "",
+      "Path": "DISCORD_BOT_EXE_PATH",
+      "ProcessName": "DISCORD_BOT_PROCESS_PATH"
+    }
+  ],
+  "Processes": [
+    {
+      "Name": "PROCESS_DISPLAY_NAME",
+      "AnnounceChannel": "DISCORD_ANNOUNCE_CHANNEL",
+      "OfflineTime": "",
+      "Path": "PROCESS_EXE_PATH",
+      "ProcessName": "PROCESS_NAME"
+    }
+  ],
+  "Tokens": {
+    "Discord": "DISCORD_MONITOR_BOT_TOKEN"
+  }
+}
